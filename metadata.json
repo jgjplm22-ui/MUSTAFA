@@ -1,0 +1,8 @@
+{
+  "name": "Remix سوقنا - سوبرماركت إلكتروني متكامل | Souqna Market",
+  "description": "تطبيق ماركت عصري ومتكامل للتسوق اليومي، خضار وفواكه طازجة، لحوم ومخبوزات، عروض حصرية وتوصيل سريع حتى باب منزلك.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
